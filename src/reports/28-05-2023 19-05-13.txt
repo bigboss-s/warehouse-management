@@ -1,0 +1,5 @@
+ID	Name	Description	Price	Amount
+1	Item 1	Something	25.5	10
+2	Item 2	Nothing	123.0	5
+3	Item 3	-	0.99	20
+4	metI	-	420.0	30
